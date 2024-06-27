@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/pmbot-io/config/master/pmbot.yml.schema.json": "file:///c%3A/Users/Louay/Desktop/flutterprojects/weather_app3y/analysis_options.yaml"
+    }
+}
